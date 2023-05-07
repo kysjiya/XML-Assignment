@@ -1,0 +1,29 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<products xmlns:apple="http://www.google.com"
+xmlns:audionic="http://www.audionic.com">
+
+<apple:product>
+<apple:productname>Headphone</apple:productname>
+<apple:productratting>5</apple:productratting>
+<apple:productprice>RS: 8900</apple:productprice>
+</apple:product>
+
+<audionic:product>
+<audionic:productname>Mouse</audionic:productname>
+<audionic:productratting>3</audionic:productratting>
+<audionic:productprice>RS: 3500</audionic:productprice>
+</audionic:product>
+
+<apple:product>
+<apple:productname>Monitor</apple:productname>
+<apple:productratting>2</apple:productratting>
+<apple:productprice>RS: 6700</apple:productprice>
+</apple:product>
+
+<apple:product>
+<apple:productname>Keyboard</apple:productname>
+<apple:productratting>4</apple:productratting>
+<apple:productprice>RS: 1500</apple:productprice>
+</apple:product>
+
+</products>
